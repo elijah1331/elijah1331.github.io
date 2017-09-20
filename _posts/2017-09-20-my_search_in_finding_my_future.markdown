@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "My Search In Finding My Future."
+date:   2017-09-20 16:34:15 +0000
+---
+
+
+     In my Economics class in high school my teacher assigned us a career development project. Each student was tasked to go on the journey of discovering two occupations that they wanted to potentially pursue in life. We had to research a few things such as median income, available jobs, whether the industry of choice is growing or declining etc. 
+		 
+     Choosing two potential career paths were relatively easy for me. My first choice was to become a History teacher. I had always loved learning about the past. Learning about wars, civilization, and government always left me wanting more. Plus, it was easily my best subject. I always aced my test and state exams. It just made sense for me to consider that an option. So I began my research and I learned that market was saturated and that growth was slow for this particular field of choice. Money wasn’t a motivating factor for me. I knew that there wasn’t that much money to make but, I didn’t care for that because I just wanted to teach kids about history and show them the passion I have for it. I ended up not pursuing history as a career choice because I wanted to get a job directly after college. Hearing post grads stories about how hard it was obtaining a job in the major leaned me towards choosing my other option. Which was software development. The industry was growing and majoring in Computer Science gave me a plethora of opportunities after college. From IT to mathematics the options were vast. I also had a love for computers and gaming. I had this desire to learn how to build these applications and that’s what software development was going to lead me to do. 
+		 
+	  During my first year of college I took an intro to Java programming. My experience wasn’t the best. I found myself constantly having to teach myself material that I thought was supposed to be taught during lectures/labs. My perception of college was that of High School. While in High school the teachers tested us on material that was taught in class. In college self-teaching was required and you would be tested on things that they wouldn’t necessarily talk about during lectures. This was eye opening and something that I was not accustomed to. My desire to learn to program was fading quickly. I wasn’t having success and felt like maybe I wasn’t cut out for this line of work. 
+	
+	  It wasn’t until I took some time off from college that I was able to realize that I truly loved programming. While I was away from college I got hired at a job that was nice enough to let me manage my downtime however, I saw fit. I used my downtime to learn Java because I had an interest in building applications for mobile devices. What I really love about programming is how it allows you to become an artist. You’re able to use your imagination and code things into existence. This makes the possibilities of new things endless. Being someone who has a ton of ideas I could use this knowledge to better my life in ways I never thought were possible. This I what led me to wanting to become a software developer. 
+
